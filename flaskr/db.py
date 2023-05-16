@@ -32,7 +32,7 @@ def init_db():
 @click.command('init-db')
 def init_db_command():
     init_db()
-    click.echo('Initialized the database')
+    click.echo('Initialized')
 
 def init_app(app):
     app.teardown_appcontext(close_db)
