@@ -5,7 +5,7 @@
 ### - create their own posts, and 
 ### - view other posts
 
-[Check it out](markvrma.pythonanywhere.com)
+[Check it out](http://markvrma.pythonanywhere.com)
 
 # Dev Features
 ### added tests that utilize pytests
